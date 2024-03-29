@@ -8,6 +8,10 @@ This project encompasses the development of a dashboard to analyze and visualize
 
 The primary objective of this project is to utilize data visualization techniques to present a comprehensive view of the COVID-19 pandemic's effects, facilitating awareness and aiding in prevention efforts. The target audience includes executives with extensive business experience but limited ICT knowledge.
 
+![image](https://github.com/manan3008/Covid19_PowerBi_Dashboard_Project/assets/68306893/2b1b83a9-bf13-4cb8-bdd1-fb06e31575c1)
+![image](https://github.com/manan3008/Covid19_PowerBi_Dashboard_Project/assets/68306893/85c76bdd-e4ef-4edb-887b-4f9f27a9810a)
+![image](https://github.com/manan3008/Covid19_PowerBi_Dashboard_Project/assets/68306893/38db7270-e067-4dc4-be3f-bb7cb7916008)
+
 ## Features
 
 The dashboard includes the following visualizations:
